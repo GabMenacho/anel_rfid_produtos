@@ -1,0 +1,10 @@
+{
+  "produtos": {
+    "04:16:A5:99:C9:2A:81": {
+      "nome": "Pó Solto Fixador",
+      "cor": "Yellowish",
+      "marca": "Makie",
+      "audio": "audio/po_makie_yellowish.wav"
+    }
+  }
+}
