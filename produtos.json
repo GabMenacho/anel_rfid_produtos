@@ -11,6 +11,12 @@
       "cor": "Candy",
       "marca": "Bruna Tavares",
       "audio": "audio/iluminador_liq_bt_hellokitty_candy.wav"
+    },
+    "04:D3:9F:99:C9:2A:81": {
+      "nome": "Blush Líquido Hello Kitty",
+      "cor": "Pink Bow",
+      "marca": "Bruna Tavares",
+      "audio": "audio/blush_bthellokitty_pink_bow.wav"
     }
   }
 }
